@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lichingngamba
 - 👀 I’m interested in machine learning and data science.
 - 🌱 I have completed Mtech in Data Science and Engineering
+- 👨‍💻 Currently working as a Software Engineer [AIML | DSE] in ALE.
 - 💞️ I’m looking to collaborate on industry expert on data science using Ml and AI.
 - 📫 How to reach me .... wa.me/+918414831094
 
